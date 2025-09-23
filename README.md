@@ -69,4 +69,3 @@ This project demonstrates **hierarchical structural design** in Verilog by reusi
 ## 📚 Notes
 - Written and tested with **Xilinx ISE**.  
 - Modular, extensible design (can scale to 16×16 with similar approach).  
-- Suitable for demonstrating **digital design fundamentals**: FSMs, datapaths, hierarchical modules.
