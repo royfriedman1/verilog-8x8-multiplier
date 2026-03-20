@@ -1,4 +1,4 @@
-# 8x8 Sequential Multiplier (Xilinx ISE Project)
+# 8×8 Sequential Multiplier in Verilog
 
 ## 🚀 Overview
 This project implements an **8×8 sequential multiplier** in Verilog using a modular design approach.  
